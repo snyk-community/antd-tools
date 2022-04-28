@@ -33,7 +33,7 @@
     "commander": "^2.9.0",
     "es3ify": "^0.2.1",
     "es3ify-loader": "^0.2.0",
-    "gh-pages": "^0.11.0",
+    "gh-pages": "^2.0.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
     "gulp-typescript": "~3.0.2",
